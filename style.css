@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(207, 207, 228);
+    color:rgb(30, 0, 37);
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+      background-color: rgb(118, 118, 180);
+      color: rgb(26, 23, 49);
+    
+    
+    h1{
+        display: none;
+    }
+}
