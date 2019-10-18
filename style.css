@@ -9,7 +9,7 @@ body {
       color: rgb(26, 23, 49);
     
     
-    h1{
-        display: none;
-    }
+    h1 {
+        background-color: purple;
+      }
 }
